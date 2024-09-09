@@ -155,7 +155,7 @@ docker run -p 8080:8080 -e spring.ai.openai.api-key=<Real OpenAI API key must be
 
 [Back to Content](#Content)
 
-## Running tests locally from the terminal
+### Running tests locally from the terminal
 
 `mvn clean test`
 
