@@ -20,7 +20,7 @@ The response to the request is from the OpenAI ChatGPT Service.
 
 ## Tech Stack
 
-<p align="center">
+<p>
     <a href="https://spring.io/">
       <img width="15%" title="Spring" src="src/main/resources/media/Spring.svg" alt="Spring">
     </a>
