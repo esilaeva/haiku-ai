@@ -24,8 +24,8 @@ public class AiController {
   
   
   @Operation(
-      summary = "Хайку",
-      description = "Позволяет получить произвольную хайку"
+      summary = "Haiku endpoint",
+      description = "Allow to get funny haiku about AI"
   )
   @GetMapping("/get-haiku")
   public ResponseEntity<String> generateHaiku() {
@@ -33,8 +33,8 @@ public class AiController {
   }
   
   @Operation(
-      summary = "Стихи",
-      description = "Позволяет получить стихотворение на заданный жанр и тему"
+      summary = "Poetry",
+      description = "Allows you to get a poem on a given genre and theme"
   )
   @GetMapping("/get-poetry")
   public ResponseEntity<PoetryDto> generatePoetry(@RequestParam("genre") String genre,
@@ -44,8 +44,8 @@ public class AiController {
   }
   
   @Operation(
-      summary = "Путеводитель",
-      description = "Позволяет получить путеводитель по городу и интересам"
+      summary = "City guide",
+      description = "Little city guide on a given city and interest"
   )
   @GetMapping("/city-guide")
   public ResponseEntity<String> generateCityGuide(@RequestParam("city") String city,
@@ -55,8 +55,8 @@ public class AiController {
   }
   
   @Operation(
-      summary = "Картинки",
-      description = "Позволяет получить произвольную картинку на заданную тему"
+      summary = "Pics",
+      description = "A random picture on a given topic"
   )
   @GetMapping("/get-image")
   public void generateImage(HttpServletResponse httpServletResponse,

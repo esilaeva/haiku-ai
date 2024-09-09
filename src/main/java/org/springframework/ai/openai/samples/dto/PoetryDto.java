@@ -6,7 +6,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-@Schema(description = "Сущность поэзии")
+@Schema(description = "Poetry item")
 @AllArgsConstructor
 @NoArgsConstructor
 @Setter
