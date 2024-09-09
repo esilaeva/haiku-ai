@@ -10,11 +10,11 @@ The response to the request is from the OpenAI ChatGPT Service.
 
 ## [Content](#Content)
 
-[Tech Stack](#Tech Stack)  
+[Tech Stack](#Tech-Stack)  
 [Prerequisites](#Prerequisites)  
-[Building and running](#Building and running)  
-[Access the endpoint](#Access the endpoint)  
-[Running application in Docker](#Running application in Docker)
+[Building and running](#Building-and-running)  
+[Access the endpoint](#Access-the-endpoint)  
+[Running application in Docker](#Running-application-in-Docker)
 
 [Autotests](#Autotests)
 
@@ -22,30 +22,30 @@ The response to the request is from the OpenAI ChatGPT Service.
 
 <p align="center">
     <a href="https://spring.io/">
-      <img width="7%" title="Spring" src="src/main/resources/media/Spring.svg" alt="Spring">
+      <img width="15%" title="Spring" src="src/main/resources/media/Spring.svg" alt="Spring">
     </a>
     <a href="https://maven.apache.org/">
-      <img width="7%" title="Maven" src="src/main/resources/media/ApacheMaven.svg" alt="Maven">
+      <img width="15%" title="Maven" src="src/main/resources/media/ApacheMaven.svg" alt="Maven">
     </a>
     <a href="https://www.java.com/">
-      <img width="7%" title="Java" src="src/main/resources/media/java-original.svg" alt="java">
+      <img width="15%" title="Java" src="src/main/resources/media/java-original.svg" alt="java">
     </a>
     <a href="https://www.jetbrains.com/">
-      <img width="7%" title="IntelliJ IDEA" src="src/main/resources/media/Idea.svg" alt="IntelliJ IDEA">
+      <img width="15%" title="IntelliJ IDEA" src="src/main/resources/media/Idea.svg" alt="IntelliJ IDEA">
     </a>
     <a href="https://junit.org/junit5/">
-      <img width="7%" title="JUnit5" src="src/main/resources/media/Junit5.svg" alt="JUnit5">
+      <img width="15%" title="JUnit5" src="src/main/resources/media/Junit5.svg" alt="JUnit5">
     </a>
     <a href="https://rest-assured.io/">
-      <img width="7%" title="Rest Assured" src="src/main/resources/media/rest-assured.png" alt="Rest Assured">
+      <img width="15%" title="Rest Assured" src="src/main/resources/media/rest-assured.png" alt="Rest Assured">
     </a>
     <a href="https://github.com/">
-      <img width="7%" title="GitHub" src="src/main/resources/media/github-mark-white.svg" alt="GitHub">
+      <img width="15%" title="GitHub" src="src/main/resources/media/github-mark-white.svg" alt="GitHub">
     </a>
     <a href="https://swagger.io/">
-      <img width="7%" title="Swagger" src="src/main/resources/media/Swagger.svg" alt="Swagger">
+      <img width="15%" title="Swagger" src="src/main/resources/media/Swagger.svg" alt="Swagger">
     </a>
-</p>
+</p>  
 
 ## Prerequisites
 
