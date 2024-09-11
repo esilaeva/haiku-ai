@@ -22,7 +22,7 @@ The response to the request is from the OpenAI ChatGPT Service.
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
   <a href="https://spring.io/" style="flex: 1 1 10%; text-align: center;">
-    <img style="width: 40px;" title="Spring" src="src/main/resources/media/Spring.svg" alt="Spring">
+    <img style="width: 45px;" title="Spring" src="src/main/resources/media/Spring.svg" alt="Spring">
   </a>
   <a href="https://maven.apache.org/" style="flex: 1 1 10%; text-align: center;">
     <img style="width: 50px;" title="Maven" src="src/main/resources/media/ApacheMaven.svg" alt="Maven">
